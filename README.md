@@ -1,6 +1,6 @@
 # Deteksi Sampah Otomatis dengan MobileNetV2
 
-Proyek ini menggunakan model **MobileNetV2** untuk mengklasifikasikan berbagai jenis sampah berdasarkan citra gambar. Sistem ini mendukung edukasi pengelolaan sampah, monitoring kebersihan kota, dan aplikasi berbasis kamera HP.
+Proyek ini menggunakan model **MobileNetV2** untuk mengklasifikasikan berbagai jenis sampah berdasarkan citra gambar. Sistem ini Mendeteksi tumpukan sampah liar di ruang publik, Mengidentifikasi jenis sampah untuk keperluan daur ulang, Membantu petugas kebersihan dan masyarakat dalam proses pelaporan dan pengambilan keputusan
 
 ---
 
